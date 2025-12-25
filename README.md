@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @pathrikaratul7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-pathrikaratul7/pathrikaratul7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Atul Pathrikar  
+👀 Passionate about SQL Server, Database Design, Query Optimization, and .NET Backend Development  
+🌱 Currently exploring advanced SQL internals, execution plans, async programming, and Power BI analytics  
+💞️ Open to collaborating on SQL automation tools, APIs, reporting solutions, and learning projects  
+📫 Reach me via GitHub or connect through my technical YouTube tutorials
