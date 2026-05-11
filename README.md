@@ -23,8 +23,8 @@
 • Learning & Open-Source Projects
 
 📫 Connect with me:
-• GitHub: pathrikaratul7 GitHub
+• GitHub: pathrikaratul7 GitHub (https://github.com/pathrikaratul7)
 
-• YouTube: Tech Full Stack YouTube Channel
+• YouTube: Tech Full Stack YouTube Channel (https://www.youtube.com/@techfullstack8777)
 
 🔥 Passionate about building high-performance backend systems, optimizing databases, and sharing technical knowledge with the developer community.
